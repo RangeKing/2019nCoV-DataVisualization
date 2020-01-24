@@ -23,7 +23,7 @@
 2. 2019新型冠状病毒疫情实时爬虫API：http://lab.isaaclin.cn/nCoV/
 3. 获取武汉 2019nCov信息爬虫（python）：https://github.com/Jacksgong/wuhan-2019-nCoV
 
-#### · 网页信息
+#### · 疫情相关网页
 
 > 官方公告
 
@@ -44,17 +44,17 @@
 8. 夸克：https://broccoli.uc.cn/apps/pneumonia/routes/index
 9. 百度：https://voice.baidu.com/act/newpneumonia/newpneumonia
 
-#### · 主动推送
+#### · 疫情相关主动推送
 
 1. Telegram 频道消息推送：[2019-nCoV疫情实时播报🅥](https://t.me/nCoV2019)
 2. 快知 App 推送：[全国新型肺炎疫情实时动态](https://kz.sync163.com/web/topic/Pn3yRwxP04XBx)
 3. 基于丁香园数据的疫情实时播报推送脚本：[nCoV-push](https://github.com/easychen/nCoV-push)
 
-#### · 手动查询
+#### · 手动查询疫情信息
 
 1. 微信公众号「方糖」（使用方法：关注后对话框内输入城市）
 
-#### · RSS订阅
+#### · 疫情相关RSS订阅
 
 > TG频道[📓 Real Spencer Woo](https://t.me/realSpencerWoo)整理（仅供参考，不分先后）
 
