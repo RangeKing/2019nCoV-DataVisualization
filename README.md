@@ -10,6 +10,19 @@
 
 ### 🔗相关链接
 
+#### · 其他可视化案例
+
+1. [JHU CSSE: Wuhan CoV Global Cases](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+2. https://github.com/veaba/ncov
+3. https://nextstrain.org/ncov
+4. https://github.com/DiamondYuan/2019-ncov
+
+#### · 相关工具
+
+1. python数据可视化工具：[pyecharts](https://github.com/pyecharts/pyecharts)
+2. 2019新型冠状病毒疫情实时爬虫API：http://lab.isaaclin.cn/nCoV/
+3. 获取武汉 2019nCov信息爬虫（python）：https://github.com/Jacksgong/wuhan-2019-nCoV
+
 #### · 网页信息
 
 > 官方公告
@@ -51,17 +64,6 @@
 
 3. South China Morning Post - [China coronavirus outbreak](https://rsshub.app/coronavirus/scmp)
 
-#### · 其他可视化案例
-
-1. https://github.com/veaba/ncov
-2. https://nextstrain.org/ncov
-3. https://github.com/DiamondYuan/2019-ncov
-
-#### · 相关工具
-
-1. python数据可视化工具：[pyecharts](https://github.com/pyecharts/pyecharts)
-2. 2019新型冠状病毒疫情实时爬虫API：http://lab.isaaclin.cn/nCoV/
-3. 获取武汉 2019nCov信息爬虫（python）：https://github.com/Jacksgong/wuhan-2019-nCoV
 
 ---
 
