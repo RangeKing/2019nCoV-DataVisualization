@@ -4,14 +4,7 @@
 
 > 一个中国新型冠状病毒疫情数据可视化的例子
 
-2020年1月，中国新型冠状病毒疫情发酵。看到网上制作的疫情地图质量参差不齐，故利用疫情数据绘制了一些图表。主要目的为个人python数据可视化、Git和markdown等学习之用（~~没什么基础，献丑了~~）。
-
----
-
-### 🌏图表示例
-
-- [x] 全国新型冠状病毒疫情·地理分布图（数据来源：[丁香园实时播报平台](https://3g.dxy.cn/newh5/view/pneumonia)）
-- [x] 全国新型冠状病毒疫情·分省柱状图（数据来源：[丁香园实时播报平台](https://3g.dxy.cn/newh5/view/pneumonia)）
+2020年1月，中国新型冠状病毒疫情发酵。看到网上制作的疫情地图质量参差不齐，故利用疫情数据绘制了一些图表。主要目的为个人python数据可视化、Git和markdown等学习之用（~~没什么基础，献丑了~~）。顺道收集了一些个人认为比较优秀的案例做分享。
 
 ---
 
@@ -69,6 +62,13 @@
 1. python数据可视化工具：[pyecharts](https://github.com/pyecharts/pyecharts)
 2. 2019新型冠状病毒疫情实时爬虫API：http://lab.isaaclin.cn/nCoV/
 3. 获取武汉 2019nCov信息爬虫（python）：https://github.com/Jacksgong/wuhan-2019-nCoV
+
+---
+
+### 🌏已完成图表示例
+
+- [x] 全国新型冠状病毒疫情·地理分布图（数据来源：[丁香园实时播报平台](https://3g.dxy.cn/newh5/view/pneumonia)）
+- [x] 全国新型冠状病毒疫情·分省柱状图（数据来源：[丁香园实时播报平台](https://3g.dxy.cn/newh5/view/pneumonia)）
 
 ---
 
